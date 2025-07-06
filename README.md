@@ -167,10 +167,12 @@ This project implements a multi-threaded proxy server capable of handling multip
 **Note:** This code can only be run on a Linux machine.
 
 ---
-
+``` bash
 ### Video Tutorial to run the project: 
+
 [![Watch the video](https://img.youtube.com/vi/11FcRm1qk6g/hqdefault.jpg)](https://youtu.be/11FcRm1qk6g?si=jygSZohk-bnjUeM7)
 
+```
 ---
 
 ## Potential Enhancements
